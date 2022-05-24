@@ -167,18 +167,6 @@ In the architecture, you can configure your infrastructure using the followings,
       - Created DynamoDB table's name should be placed on Lambda function.
 
 
-## Project Skeleton 
-
-```text
-clarusway_blog_proj (folder)
-|
-|----Readme.md               # Given to the students (Definition of the project)
-|----src (folder)            # Given to the students (Django Application's )
-|----requirements.txt        # Given to the students (txt file)
-|----lambda_function.py      # Given to the students (python file)
-|----developer_notes.txt     # Given to the students (txt file)
-```
-
 ## Expected Outcome
 
 ![Phonebook App Search Page](./outcome.png)
